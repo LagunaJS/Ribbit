@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_ec53463f0c6266568ff3d216ada6a9fc03ef4c2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\libs\Parse-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="077b21d82e098a5d95e46b1868c664a23ada163a">
+        <dex dex="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\build\intermediates\pre-dexed\debug\Parse-1.3.9_5cf589bb9fbc2525e9bcea05584895df64e32bbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\build\intermediates\pre-dexed\debug\picasso-2.1.1_c5ff64ac664ff7305dd021f59be0dd5776541270.jar" />
+    </item>
+    <item
+        jar="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\laguna\AndroidStudioProjects\Ribbit-or1\app\build\intermediates\pre-dexed\debug\commons-io-2.4_76cc0a7ac22783b4301e9ae2e759c318ebc69528.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_send_now.png",
+        "source": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_camera.png",
+        "source": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_play_over_video.png",
+        "source": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play_over_video.png"
+    },
+    {
+        "merged": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_picture.png",
+        "source": "C:\\Users\\laguna\\AndroidStudioProjects\\Ribbit-or1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_picture.png"
+    }
+]
